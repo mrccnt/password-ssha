@@ -34,7 +34,7 @@ php example.php
     Info Options:       {"cost":10}
     Rehash bcrypt (10): false
     Rehash bcrypt (14): true
-    Rehash ssha:             true
+    Rehash ssha:        true
     
     Generated Hash:     {SSHA}syze7uEZa57iOmlfa5wbYmKB9+kyOTc4YmEzYzJkZjM=
     Test Password:      Ok
